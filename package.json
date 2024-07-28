@@ -1,6 +1,6 @@
 {
   "name": "fenextjs-nextjs-dependencies",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franciscoblancojn/fenextjs-nextjs-dependencies.git"
+    "url": "git+https://github.com/fenextjs/fenextjs-nextjs-dependencies.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/franciscoblancojn/fenextjs-nextjs-dependencies/issues"
+    "url": "https://github.com/fenextjs/fenextjs-nextjs-dependencies/issues"
   },
-  "homepage": "https://github.com/franciscoblancojn/fenextjs-nextjs-dependencies#readme",
+  "homepage": "https://github.com/fenextjs/fenextjs-nextjs-dependencies#readme",
   "dependencies": {
     "next": "13.5.1",
     "react": "18.2.0",
